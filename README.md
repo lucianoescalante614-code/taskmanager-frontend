@@ -1,14 +1,54 @@
-# Reserva tu Cancha - Frontend
+# Task Manager Frontend
 
-Aplicación React (Vite) para gestionar reservas de canchas. Incluye páginas de registro, login y funcionalidad de listado y detalle de canchas junto con creación de reservas.
+Frontend del trabajo final desarrollado con **React + Vite**.
 
-**Instalación y desarrollo**
+## Tecnologías
 
-```bash
+* React
+* Vite
+* Axios
+* React Router
+
+## Instalación
+
+Clonar repositorio:
+
+```
+git clone https://github.com/lucianoescalante614-code/taskmanager-frontend.git
+```
+
+Entrar en la carpeta:
+
+```
+cd taskmanager-frontend
+```
+
+Instalar dependencias:
+
+```
 npm install
+```
+
+Iniciar proyecto:
+
+```
 npm run dev
 ```
 
-Configurar `.env` con la URL del backend (ver `.env.example`).
+Aplicación disponible en:
 
-Después de iniciar, la app corre en `http://localhost:5175/` (puede variar).
+```
+http://localhost:5173
+```
+
+---
+
+## Web Deployada
+
+https://taskmanager-frontend-five.vercel.app/
+
+---
+
+## Backend API
+
+https://taskmanager-api-tjqj.onrender.com
